@@ -9,7 +9,7 @@
 - [Introduction](#introduction)
 - [Install](#install)
 - [Usage](#usage)
-- [Dependencies)(#Node.js-Dependencies)
+- [Dependencies)(#Dependencies)
 - [Team](#team)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -32,7 +32,7 @@ $ npm install --save weather-cli
 ```
 node cli.js [City = Dahka] [Country = Bangladesh] [Scale(C/F)]
 ```
-## Node.js-Dependencies
+## Dependencies
 Node.js 4.0 or ulterior
 meow, chalk, update-notifier, yql, loadsh
 
