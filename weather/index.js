@@ -3,6 +3,11 @@
 const YQL = require('yql');
 const _ = require('lodash');
 
+/**
+ * Small module that sends a query to the yahoo website
+ * @param {Object} the object containing the data to be printed
+ * @param {Function} callback the function processing the data in input.
+ */
 module.exports = (opts, callback) => {
 	opts = opts || [];
 
