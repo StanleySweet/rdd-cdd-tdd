@@ -9,7 +9,7 @@
 - [Introduction](#introduction)
 - [Install](#install)
 - [Usage](#usage)
-- [Dependencies)(#Dependencies)
+- [Dependencies](#Dependencies)
 - [Team](#team)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
